@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635090754650",
+    "project_id": "fir-notes-504f8",
+    "storage_bucket": "fir-notes-504f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635090754650:android:8452328a503838516a4c63",
+        "android_client_info": {
+          "package_name": "getamaz.firebase.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkvXSeQvwG2zPKWBaQAO0qfzrksU6PbYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
